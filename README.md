@@ -20,7 +20,8 @@ The analysis provides insights for:
 ```
 ├── Market Basket Analysis.ipynb   # Jupyter Notebook with full implementation
 ├── README.md                      # Project documentation
-└── dataset/                       # Transaction dataset (if applicable)
+└── dataset/                       # Transaction dataset
+
 ```
 ## 🔑 Key Features
 
